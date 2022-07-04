@@ -1,0 +1,44 @@
+total 74088
+drwxr-xr-x 20 vwong vwong     4096 Jul  4 19:47 ./
+drwxr-xr-x  4 root  root      4096 Apr 23 15:01 ../
+drwxr-xr-x  8 vwong vwong     4096 Apr 30 01:26 .asdf/
+lrwxrwxrwx  1 vwong vwong       27 Apr 30 14:20 .aws -> /c/Users/WANG XIAOJIAN/.aws/
+lrwxrwxrwx  1 vwong vwong       29 Apr 30 14:20 .azure -> /c/Users/WANG XIAOJIAN/.azure/
+-rw-------  1 vwong vwong     8251 Apr 30 00:43 .bash_history
+-rw-r--r--  1 vwong vwong      220 Apr 13 23:06 .bash_logout
+-rw-r--r--  1 vwong vwong     3771 May  6 13:41 .bashrc
+drwxr-xr-x 10 vwong vwong     4096 May 18 10:02 .cache/
+drwxrwsr-x  4 vwong vwong     4096 May 12 17:47 .conda/
+-rw-r--r--  1 vwong vwong      708 May 12 17:45 .condarc
+drwx------  6 vwong vwong     4096 May 14 18:26 .config/
+drwxr-xr-x  5 vwong vwong     4096 May  3 15:01 .docker/
+lrwxrwxrwx  1 vwong vwong       31 Apr 30 01:25 .gitconfig -> /home/vwong/dotfiles/.gitconfig
+-rw-r--r--  1 vwong vwong      487 May  1 14:54 .gitconfig.user
+drwxr-xr-x  3 vwong vwong     4096 Jun 19 18:07 .ipython/
+drwxr-xr-x  2 vwong vwong     4096 Apr 13 23:06 .landscape/
+-rw-------  1 vwong vwong       28 May 12 11:27 .lesshst
+drwxr-xr-x  6 vwong vwong     4096 May 18 09:06 .local/
+-rw-r--r--  1 vwong vwong        0 May  6 13:33 .motd_shown
+drwxr-xr-x  4 vwong vwong     4096 Apr 30 01:26 .npm/
+-rw-r--r--  1 vwong vwong      844 May  6 13:43 .profile
+-rw-------  1 vwong vwong     1014 May 17 15:01 .python_history
+-rw-rw-r--  1 vwong vwong       75 Apr 23 17:16 .selected_editor
+drwx------  2 vwong vwong     4096 May  4 15:37 .ssh/
+-rw-r--r--  1 vwong vwong        0 Apr 14 14:17 .sudo_as_admin_successful
+drwxr-xr-x  3 vwong vwong     4096 Apr 30 00:39 .tmux/
+lrwxrwxrwx  1 vwong vwong       31 Apr 30 01:25 .tmux.conf -> /home/vwong/dotfiles/.tmux.conf
+-rw-r--r--  1 vwong vwong       15 Apr 30 01:26 .tool-versions
+drwxr-xr-x  5 vwong vwong     4096 Apr 30 01:26 .vim/
+-rw-------  1 vwong vwong    12870 Jul  4 19:47 .viminfo
+lrwxrwxrwx  1 vwong vwong       27 Apr 30 01:25 .vimrc -> /home/vwong/dotfiles/.vimrc
+drwxr-xr-x  5 vwong vwong     4096 Apr 14 17:42 .vscode-server/
+-rw-r--r--  1 vwong vwong      214 May 20 09:19 .wget-hsts
+-rw-r--r--  1 vwong vwong      116 Apr 30 01:26 .yarnrc
+-rw-r--r--  1 vwong vwong    49042 Apr 30 01:23 .zcompdump
+lrwxrwxrwx  1 vwong vwong       28 Apr 30 01:25 .zshenv -> /home/vwong/dotfiles/.zshenv
+-rw-r--r--  1 vwong vwong 75660608 Feb 16 03:07 Miniconda3-latest-Linux-x86_64.sh
+drwxr-xr-x  4 vwong vwong     4096 May 20 09:19 cfiles/
+drwxr-xr-x  6 vwong vwong     4096 Jul  2 11:46 course/
+drwxr-xr-x  8 vwong vwong     4096 Apr 30 18:07 dotfiles/
+drwxr-xr-x  5 vwong vwong     4096 May  6 12:46 goprojects/
+drwxr-xr-x  3 vwong vwong     4096 May 12 11:27 work/
